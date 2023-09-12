@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 - 🔭 I’m a 4th year student majoring in psychology and minoring in health studies.
 - 🌱 I’m doing an independant research in N400 project 
 - 🤔 I’m looking for help with how to be a good researcher! 
