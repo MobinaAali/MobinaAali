@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**MobinaAali/MobinaAali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m a 4th year student majoring in psychology and minoring in health studies.
 - 🌱 I’m doing an independant research in N400 project 
 - 🤔 I’m looking for help with how to be a good researcher! 
